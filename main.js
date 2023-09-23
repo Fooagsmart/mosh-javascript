@@ -1,4 +1,4 @@
-let names = 'Oluwaseun'; //string literal
+let names = 'Omogbolahan'; //string literal
 let ages =30;//number literal
 let isApproved = true;// boolean literal
 let firstName = undefined;
